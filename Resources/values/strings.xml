@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Buttons_Labels_TextBoxesAndroid</string>
+    <string name="app_text">Hello, Android!</string>
+	<string-array name="auto_fill_array">
+		<item>Sunday</item>
+		<item>Monday</item>
+		<item>Tuesday</item>
+		<item>Wednesday</item>
+		<item>Thursday</item>
+		<item>Friday</item>
+		<item>Saturday</item>
+	</string-array>
+	
+</resources>
